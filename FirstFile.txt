@@ -1,0 +1,3 @@
+This is the  first git project.
+Practicing Git step by step|
+Commit practice
